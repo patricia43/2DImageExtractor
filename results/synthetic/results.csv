@@ -1,0 +1,5 @@
+click_error_px,n_frames,psnr_single_best,psnr_mean_no_ecc,psnr_median_no_ecc,psnr_mean_ecc,psnr_median_ecc,ssim_single_best,ssim_mean_no_ecc,ssim_median_no_ecc,ssim_mean_ecc,ssim_median_ecc
+0,5,31.21,32.88,32.43,32.85,32.4,0.809,0.891,0.89,0.891,0.89
+1,5,30.77,28.41,29.52,31.32,31.21,0.843,0.847,0.866,0.887,0.893
+2,5,30.97,25.06,27.06,31.37,31.25,0.845,0.763,0.816,0.887,0.892
+4,5,30.74,21.71,23.71,31.28,31.17,0.84,0.622,0.715,0.887,0.892

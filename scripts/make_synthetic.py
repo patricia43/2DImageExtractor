@@ -18,13 +18,13 @@ from skimage import data
 
 # Settings
 
-OUT_DIR = "data/synthetic/astronaut"
+OUT_DIR = "data/synthetic/astronaut_sigma20"
 
 N_FRAMES = 90
 FPS = 30
 VIDEO_W, VIDEO_H = 1280, 720
 
-NOISE_SIGMA = 8.0         # strength of the Gaussian noise (0 = no noise)
+NOISE_SIGMA = 20.0         # strength of the Gaussian noise (0 = no noise)
 SHAKE_PX = 1.5            # how much the hand shakes, in pixels
 
 SEED = 0
